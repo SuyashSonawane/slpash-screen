@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\bin\Debug\splash screen.exe.config
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\bin\Debug\splash screen.exe
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\bin\Debug\splash screen.pdb
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\obj\Debug\splash screen.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\obj\Debug\splash_screen.Form1.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\obj\Debug\splash_screen.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\obj\Debug\splash screen.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\obj\Debug\splash screen.exe
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\obj\Debug\splash screen.pdb
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\bin\Debug\CircularProgressBar.dll
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\bin\Debug\WinFormAnimation.dll
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\bin\Debug\CircularProgressBar.xml
+C:\Users\LENOVO\Desktop\PRograMerZ\splash screen\splash screen\bin\Debug\WinFormAnimation.xml
